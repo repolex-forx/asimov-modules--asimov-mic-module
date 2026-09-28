@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-mic-module",
+  "versions": [
+    {
+      "commit": "3bb447c4873980b398fdc1a6d7838999fe6e057e",
+      "parsed_at": "2026-09-28T07:31:05.918454+00:00",
+      "tag": "0.0.1",
+      "filetree": "filetree/3bb447c4873980b398fdc1a6d7838999fe6e057e.nq.gz",
+      "blobs": [
+        "blob/2b0c788e2596d934456a7ce78cc4e7f3fe40e217.nq.gz",
+        "blob/9fe50de16e59d550235aa6d7d15ee12ddf054414.nq.gz",
+        "blob/8a8466a018d0892660c0b5dd9f37dcd73e9915a6.nq.gz",
+        "blob/10b359dd05935c73efb064470f9ecda90f6d28aa.nq.gz",
+        "blob/0faf320ab61483f47f7040f2f4132d61b2b0e756.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/e8e3b0cf556eabf826e758e3ac76cfbb8b37b7ba.nq.gz",
+        "blob/fceb23c227d2157f9265d903f38a6b14cdfa3be6.nq.gz",
+        "blob/cf42f6893594e2f8be2b722de51123d65e4d61c4.nq.gz",
+        "blob/75e3b65f99b29f48ab230e3eab3de8d0b7a9229f.nq.gz",
+        "blob/fe031bc7bfb0b35b6962bd1aea9d7c9cb118537b.nq.gz",
+        "blob/a760ab06abc51cceb87e4db07cce7e79d1fbe1d0.nq.gz",
+        "blob/b66517ed509c3fc1f333655ad8f1352371190b05.nq.gz",
+        "blob/e3e57a8ce4ccbf74759a6df8fa4a3980ff1c9209.nq.gz",
+        "blob/af73f6ba09053af1f21d6315e073a90be75f495f.nq.gz",
+        "blob/8acdd82b765e8e0b8cd8787f7f18c7fe2ec52493.nq.gz",
+        "blob/9bb0c94968fb34b89b4100cddb084e5a30d2a9c4.nq.gz",
+        "blob/af9908b08f4b33c32a0080af73f53bc0fa0cdce4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
